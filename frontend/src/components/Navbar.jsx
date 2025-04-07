@@ -1,9 +1,9 @@
 import React from 'react'
-
+import Nav from './Nav'
 const Navbar = () => {
   return (
     <div>
-      this is navbar
+      <Nav />
     </div>
   )
 }
